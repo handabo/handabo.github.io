@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://yoursite.com/"/>
-  <updated>2018-09-13T08:08:10.165Z</updated>
+  <updated>2018-09-13T09:36:11.484Z</updated>
   <id>http://yoursite.com/</id>
   
   <author>
@@ -15,6 +15,22 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>python</title>
+    <link href="http://yoursite.com/2018/09/13/python/"/>
+    <id>http://yoursite.com/2018/09/13/python/</id>
+    <published>2018-09-13T09:35:38.000Z</published>
+    <updated>2018-09-13T09:36:11.484Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+      <category term="python算法" scheme="http://yoursite.com/categories/python%E7%AE%97%E6%B3%95/"/>
+    
+    
+  </entry>
   
   <entry>
     <title>Django框架总结</title>
