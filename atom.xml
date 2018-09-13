@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>韩波的博客</title>
+  
+  <subtitle>记录知识的奥妙, 享受成功的快感！</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://yoursite.com/"/>
+  <updated>2018-09-13T08:08:10.165Z</updated>
+  <id>http://yoursite.com/</id>
+  
+  <author>
+    <name>handabo</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>Django框架总结</title>
+    <link href="http://yoursite.com/2018/09/13/Django%E6%A1%86%E6%9E%B6%E6%80%BB%E7%BB%93/"/>
+    <id>http://yoursite.com/2018/09/13/Django框架总结/</id>
+    <published>2018-09-13T07:45:51.000Z</published>
+    <updated>2018-09-13T08:08:10.165Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;&lt;img src=&quot;/2018/09/13/Django框架总结/tujiedjango.png&quot;
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://yoursite.com/2018/09/12/hello-world/"/>
+    <id>http://yoursite.com/2018/09/12/hello-world/</id>
+    <published>2018-09-12T12:31:20.942Z</published>
+    <updated>2018-09-12T12:31:20.943Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        
+        
+          &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a
+        
+      
+    
+    </summary>
+    
+    
+  </entry>
+  
+</feed>
